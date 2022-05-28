@@ -57,6 +57,8 @@
   <img alt="tela de edição de perfil" src="https://user-images.githubusercontent.com/66326378/170845917-05b75564-934b-4451-855e-ca4a6dddbb73.png" width="100%">
 </p>
 
+<br>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -85,6 +87,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Design:
 - [Figma](www.figma.com)
+
+<br>
 
 ## 💻 Projeto
 
